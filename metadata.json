@@ -1,0 +1,5 @@
+{
+  "name": "Resonance Lab",
+  "description": "A Chladni plate simulator that visualizes geometric patterns formed by vibrating sand using a tone generator.",
+  "requestFramePermissions": []
+}
